@@ -8,7 +8,7 @@
 
 
 
-##### Trata- se de 5 exercícios tirados do livro (Fundamentos da programação), que teve como objetivo encerrar o semestre com a entrega dos algoritmos resolvidos em portugol.
+##### Trata- se de 5 exercícios tirados do livro Fundamentos da programação-Algoritmos, que teve como objetivo encerrar o semestre com a entrega dos algoritmos resolvidos em portugol.
 
 
 
